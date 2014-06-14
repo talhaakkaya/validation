@@ -1,0 +1,24 @@
+{
+    "name": "talhaakkaya/validation",
+    "description": "Laravel 4 Validation",
+    "keywords": ["laravel", "validation"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Talha Akkaya",
+            "email": "talhaakkaya@outlook.com",
+            "homepage": "http://talhaakkaya.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Talhaakkaya\\Validation": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
