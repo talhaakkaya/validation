@@ -1,4 +1,4 @@
 validation
 ==========
 
-Laravel 4 Validation
+Laravel 4.* Validation
